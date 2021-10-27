@@ -2,8 +2,7 @@ import sys
 from PyQt5 import uic, QtGui
 from PyQt5.QtWidgets import QMainWindow, QApplication
 from PyQt5 import QtWidgets
-from gui_1_ui import *
-from gui_2_ui import *
+from gui_1_ui import *from gui_2_ui import *
 
 
 class MainWindow(QtWidgets.QMainWindow, Ui_MainWindow):
